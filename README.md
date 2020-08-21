@@ -8,6 +8,7 @@
 | CTRL + ALT + SHIFT + hold mouse left button | rectangle selection |
 |  CTRL + ALT + SHIFT +  click mouse wheel  | create another cursor |
 |  CTRL + ALT + SHIFT +  hold mouse wheel  | rectangle selection |
+| SHIFT + ENTER | open file in another window |
 
 # Multi-line mode
 
