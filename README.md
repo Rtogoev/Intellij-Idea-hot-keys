@@ -17,3 +17,4 @@
 | ALT + SHIFT + INSERT | turn on/off multi-line mode     |
 | SHIFT + up / down | make cursor more wide / slim       |
 | CTRL + F4 | SHIFT + ESCAPE      |
+| CTRL + ALT + C | Create static constant from hard-code value |
